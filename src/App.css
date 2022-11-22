@@ -1,0 +1,13 @@
+body {
+  background-color: #bbc113dc;
+  padding: 3rem;
+}
+.tab-button-container{
+  display: flex;
+}
+.editor-container{
+  padding-top: .4%;
+}
+.m{
+  text-align: center;
+}
